@@ -12,6 +12,7 @@ This repository lists useful JSON utilities that help developers work faster and
 
 Tools that help beautify and format JSON data to make it readable.
 
+* ToolArks – https://toolarks.com/ - Comprehensive JSON toolkit including formatter, validator, comparer, and more. All processing happens locally in your browser.
 * JSON Formatter – https://jsontoall.tools/json-formatter
 * JSON Viewer – https://jsontoall.tools/json-viewer
 * JSON Minifier – https://jsontoall.tools/json-minifier
