@@ -13,6 +13,7 @@ This repository lists useful JSON utilities that help developers work faster and
 Tools that help beautify and format JSON data to make it readable.
 
 * JSON Formatter – https://jsontoall.tools/json-formatter
+* Mini-Tools.uk JSON Formatter - https://mini-tools.uk/json
 * JSON Viewer – https://jsontoall.tools/json-viewer
 * JSON Minifier – https://jsontoall.tools/json-minifier
 * JSON Sort Keys – https://jsontoall.tools/json-sort-keys
