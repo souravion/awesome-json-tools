@@ -16,6 +16,7 @@ Tools that help beautify and format JSON data to make it readable.
 * JSON Viewer – https://jsontoall.tools/json-viewer
 * JSON Minifier – https://jsontoall.tools/json-minifier
 * JSON Sort Keys – https://jsontoall.tools/json-sort-keys
+* Olutil JSON Tools — https://json.olutil.com/format
 
 ---
 
