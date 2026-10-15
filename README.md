@@ -34,6 +34,7 @@ Tools that help compare two JSON objects and highlight differences.
 
 * JSON Diff – https://jsontoall.tools/json-diff
 * JSON Compare – https://jsontoall.tools/json-compare
+* [BestJSON JSON Diff](https://bestjson.com/json-diff) – Compare JSON structures and inspect added, removed or changed values by path in the browser.
 
 ---
 
