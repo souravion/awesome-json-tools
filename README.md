@@ -14,6 +14,7 @@ Tools that help beautify and format JSON data to make it readable.
 
 * JSON Formatter – https://jsontoall.tools/json-formatter
 * JSON Viewer – https://jsontoall.tools/json-viewer
+* Glim – https://github.com/NeoPanic/Glim – macOS file viewer with a tree view for exploring local JSON files.
 * JSON Minifier – https://jsontoall.tools/json-minifier
 * JSON Sort Keys – https://jsontoall.tools/json-sort-keys
 
